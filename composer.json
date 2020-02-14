@@ -13,9 +13,7 @@
   "require": {
     "php": ">=5.4",
     "sendinblue/api-v3-sdk": ">=2 <6",
-    "symfony/config": "<5",
     "symfony/dependency-injection": ">=2.6.2 <5",
-    "symfony/http-kernel": "<5"
   },
   "require-dev": {
     "symfony/framework-bundle": ">=2.7.25",
